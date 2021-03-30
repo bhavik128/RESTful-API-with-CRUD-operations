@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{rest api workshop/node_modules}" />
+    <file url="file://$PROJECT_DIR$/node_modules" libraries="{rest api workshop/node_modules}" />
+    <file url="file://$PROJECT_DIR$/package-lock.json" libraries="{rest api workshop/node_modules}" />
+    <file url="file://$PROJECT_DIR$/package.json" libraries="{rest api workshop/node_modules}" />
+    <file url="file://$PROJECT_DIR$/public" libraries="{rest api workshop/node_modules}" />
+    <file url="file://$PROJECT_DIR$/src" libraries="{rest api workshop/node_modules}" />
+    <file url="file://$PROJECT_DIR$/src/index.js" libraries="{Node.js Core}" />
+    <excludedPredefinedLibrary name="HTML" />
+  </component>
+</project>
